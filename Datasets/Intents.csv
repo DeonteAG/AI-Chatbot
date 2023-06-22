@@ -1,0 +1,62 @@
+patterns,intents
+bye,terminate
+safe,terminate
+close,terminate
+exit,terminate
+seeya,terminate
+see you later,terminate
+goodbye,terminate
+bye bye,terminate
+hello,greetings
+hi,greetings
+hey,greetings
+heya,greetings
+yo,greetings
+how you doing,greetings
+how are you,greetings
+sup,greetings
+ok,greetings
+k,greetings
+okay,greetings
+howdy,greetings
+date,date
+what is the date today,date
+tell me the date today,date
+what date is it,date
+time,time
+what time is it,time
+tell me the time,time
+what is the time,time
+what is your name,askBotname
+what is ur name,askBotname
+what should I call you,askBotname
+what is my name,askUsername
+what am I called,askUsername
+what's my name,askUsername
+change my name to,changeName
+let me change,changeName
+my name is,changeName
+call me,changeName
+I am called,changName
+help me,helpMessage
+thank you,thank_you
+thanks,thank_you
+ty,thank_you
+cheers,thank_you
+thanks for that,thank_you
+lets take the quiz,football_quiz
+quiz,football_quiz
+try quiz,football_quiz
+take quiz,football_quiz
+football quiz,football_quiz
+I want to try the quiz,football_quiz
+I want to play a game,play_game
+play game,play_game
+game,play_game
+got any games,play_game
+guess a number,play_game
+tell me the weather,weather
+what is the weather,weather
+is it hot,weather
+is it cold,weather
+what is it like outside,weather
